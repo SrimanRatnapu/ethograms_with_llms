@@ -5,6 +5,8 @@ Code accompanying the paper **"Evaluating Large Multimodal Language Models for A
 ## Overview
 This repository documents an evaluation pipeline comparing LLM-generated ethogram labels against human annotations.
 
+**It accompanies the arXiv preprint “Evaluating Large Multimodal Language Models for Automated Ethogram Generation from Public Zoo Footage,” which describes the experimental design and results.**
+
 Key design choices:
 - Focal-animal sampling
 - Coarse-grained behavior taxonomy
